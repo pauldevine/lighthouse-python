@@ -10,7 +10,7 @@ npm install -g lighthouse
 ```
 
 ```bash
-pip install git+https://github.com/adamcupial/lighthouse-python.git#egg=lighthouse
+pip3 install git+https://github.com/pauldevine/lighthouse-python.git#egg=lighthouse
 ```
 
 ## Usage
